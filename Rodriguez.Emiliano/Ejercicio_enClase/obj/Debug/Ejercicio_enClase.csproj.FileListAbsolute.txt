@@ -1,0 +1,14 @@
+C:\Users\alumno\Downloads\Rodriguez.Emiliano\Ejercicio_enClase\bin\Debug\Ejercicio_enClase.exe.config
+C:\Users\alumno\Downloads\Rodriguez.Emiliano\Ejercicio_enClase\bin\Debug\Ejercicio_enClase.exe
+C:\Users\alumno\Downloads\Rodriguez.Emiliano\Ejercicio_enClase\bin\Debug\Ejercicio_enClase.pdb
+C:\Users\alumno\Downloads\Rodriguez.Emiliano\Ejercicio_enClase\obj\Debug\Ejercicio_enClase.csprojAssemblyReference.cache
+C:\Users\alumno\Downloads\Rodriguez.Emiliano\Ejercicio_enClase\obj\Debug\Ejercicio_enClase.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Downloads\Rodriguez.Emiliano\Ejercicio_enClase\obj\Debug\Ejercicio_enClase.exe
+C:\Users\alumno\Downloads\Rodriguez.Emiliano\Ejercicio_enClase\obj\Debug\Ejercicio_enClase.pdb
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Ejercicio_enClase\bin\Debug\Ejercicio_enClase.exe.config
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Ejercicio_enClase\bin\Debug\Ejercicio_enClase.exe
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Ejercicio_enClase\bin\Debug\Ejercicio_enClase.pdb
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Ejercicio_enClase\obj\Debug\Ejercicio_enClase.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Ejercicio_enClase\obj\Debug\Ejercicio_enClase.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Ejercicio_enClase\obj\Debug\Ejercicio_enClase.exe
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Ejercicio_enClase\obj\Debug\Ejercicio_enClase.pdb

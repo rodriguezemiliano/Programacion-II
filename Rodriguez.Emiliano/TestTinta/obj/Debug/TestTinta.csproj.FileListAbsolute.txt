@@ -1,0 +1,10 @@
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\bin\Debug\TestTinta.exe.config
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\bin\Debug\TestTinta.exe
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\bin\Debug\TestTinta.pdb
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\bin\Debug\Clase_05.dll
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\bin\Debug\Clase_05.pdb
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\obj\Debug\TestTinta.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\obj\Debug\TestTinta.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\obj\Debug\TestTinta.csproj.CopyComplete
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\obj\Debug\TestTinta.exe
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\TestTinta\obj\Debug\TestTinta.pdb

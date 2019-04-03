@@ -1,0 +1,6 @@
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Clase_05\bin\Debug\Clase_05.dll
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Clase_05\bin\Debug\Clase_05.pdb
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Clase_05\obj\Debug\Clase_05.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Clase_05\obj\Debug\Clase_05.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Clase_05\obj\Debug\Clase_05.dll
+C:\Users\alumno\Desktop\Rodriguez.Emiliano\Clase_05\obj\Debug\Clase_05.pdb
