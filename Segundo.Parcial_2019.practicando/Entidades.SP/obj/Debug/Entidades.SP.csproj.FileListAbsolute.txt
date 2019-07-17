@@ -1,0 +1,6 @@
+C:\Users\chino\OneDrive\Escritorio\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.csprojAssemblyReference.cache
+C:\Users\chino\OneDrive\Escritorio\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.csproj.CoreCompileInputs.cache
+C:\Users\chino\OneDrive\Escritorio\Segundo.Parcial_2019\Entidades.SP\bin\Debug\Entidades.SP.dll
+C:\Users\chino\OneDrive\Escritorio\Segundo.Parcial_2019\Entidades.SP\bin\Debug\Entidades.SP.pdb
+C:\Users\chino\OneDrive\Escritorio\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.dll
+C:\Users\chino\OneDrive\Escritorio\Segundo.Parcial_2019\Entidades.SP\obj\Debug\Entidades.SP.pdb
